@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Wed Nov  8 16:57:39 2023
+[*]
+[dumpfile] "/home/andrea/milestone2/tb/wave.fst"
+[dumpfile_mtime] "Wed Nov  8 16:45:52 2023"
+[dumpfile_size] 15662
+[savefile] "/home/andrea/milestone2/tb/tb_singlecycle.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-4.313182 66 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.top.
+[treeopen] TOP.top.dut.
+[treeopen] TOP.top.dut.datapath_inst.
+[sst_width] 297
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@28
+TOP.rst_ni
+TOP.clk_i
+@24
+[color] 1
+TOP.pc_debug_o[31:0]
+@22
+[color] 3
+TOP.top.dut.datapath_inst.imem_inst.inst[31:0]
+TOP.top.dut.datapath_inst.alu_inst.alu_data[31:0]
+TOP.top.dut.datapath_inst.alu_inst.operand_a[31:0]
+TOP.top.dut.datapath_inst.alu_inst.operand_b[31:0]
+TOP.top.dut.datapath_inst.dmem_inst.Data_Memory[31:0]
+TOP.top.dut.datapath_inst.imm_inst.imm[31:0]
+TOP.top.dut.datapath_inst.regfile_inst.rd_data[31:0]
+TOP.top.dut.datapath_inst.regfile_inst.rs1_data[31:0]
+TOP.top.dut.datapath_inst.regfile_inst.rs2_data[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
